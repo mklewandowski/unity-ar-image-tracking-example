@@ -23,7 +23,7 @@ Setup steps to be able to include AR Foundation and build and deploy:
 - For Android, in Project Settings > Other Settings, Add ARM64 to Target Architectures
 
 ## Development Tools
-- Created using Unity 2021.3.3f1
+- Created using Unity 2021.3.10f1
 - Code edited using Visual Studio Code
 
 ## Credits
