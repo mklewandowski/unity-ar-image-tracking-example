@@ -1,5 +1,5 @@
 # unity-ar-image-tracking-example
-An example of AR image tracking in Unity using AR Foundation. Using this application, an image is detected and tracked in an AR scene (in this case I'm using a Fist Puncher and Divisadero sticker as the tracked images). When the tracked image is detected, a 3D model is placed on top of the tracked image (in this case a simple hamburger 3D model from a Unity Asset Store free food model package). This project is built using Unity version 2021.3.11f1 and is designed to run on Android devices (not tested on iOS).
+An example of AR image tracking in Unity using AR Foundation. Using this application, an image is detected and tracked in an AR scene (in this case I'm using a Fist Puncher and Divisadero sticker as the tracked images). When the tracked image is detected, a 3D model is placed on top of the tracked image (in this case a simple hamburger 3D model from a Unity Asset Store free food model package). This project is built using Unity version 2021.3.15f1 and is designed to run on Android devices (not tested on iOS).
 
 ## Supported Platforms
 This project is designed for use on both iOS and Android, but it has only been tested on Android.
@@ -7,7 +7,7 @@ This project is designed for use on both iOS and Android, but it has only been t
 ## Running locally
 Use the following steps to run locally:
 1. Clone this repo
-2. Open repo folder using Unity 2021.3.11f1
+2. Open repo folder using Unity 2021.3.15f1
 
 ## Development
 Setup steps to be able to include AR Foundation and build and deploy:
@@ -23,7 +23,7 @@ Setup steps to be able to include AR Foundation and build and deploy:
 - For Android, in Project Settings > Other Settings, Add ARM64 to Target Architectures
 
 ## Development Tools
-- Created using Unity 2021.3.11f1
+- Created using Unity 2021.3.15f1
 - Code edited using Visual Studio Code
 
 ## Credits
